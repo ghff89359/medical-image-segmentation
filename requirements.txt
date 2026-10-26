@@ -1,0 +1,10 @@
+numpy
+matplotlib
+monai
+nibabel
+pytorch
+tqdm
+tensorboard
+simpleitk
+pandas
+scikit-learn
